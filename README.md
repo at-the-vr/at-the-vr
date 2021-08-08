@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itsEobard2025
 - 👀 I’m interested in Programming, Crunch Coding
 - 🌱 I’m currently learning Web Dev, JavaScript, DSA,  Python, Natural Language Processing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... contact email : atharvapise19@gmail.com
 
 <!---
