@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atharva Pise
 - 👀 I’m interested in Programming, Crunch Coding
-- 🌱 I’m currently learning Web Dev, JavaScript, DSA,  Python, and C++
+- 🌱 I’m currently learning DSA,  C and Java
 - 📫 How to reach me ... contact email : atharvapise19@gmail.com
 
 <!---
