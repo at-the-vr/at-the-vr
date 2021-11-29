@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atharva Pise
-- 👀 I’m interested in Programming, Crunch Coding
-- 🌱 I’m currently learning DSA,  C and Java
+- 👀 I’m interested in Open Source, in my free hours I often work with Data Analysis Fundamentals as well
+- 🌱 I’m currently learning DSA,  C and Linux(Ubuntu Distro)
 - 📫 How to reach me ... contact email : atharvapise19@gmail.com
 
 <!---
