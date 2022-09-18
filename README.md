@@ -7,6 +7,4 @@
 
 - 📫 How to reach me **atharvapise19@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itseobard2025&show_icons=true&locale=en&layout=compact" alt="itseobard2025" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itseobard2025&show_icons=true&locale=en" alt="itseobard2025" /></p>
