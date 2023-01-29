@@ -5,4 +5,4 @@
 
 - 📫 How to reach me **atharvapise19@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itseobard2025&show_icons=true&locale=en" alt="itseobard2025" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piseatharva&show_icons=true&locale=en" alt="piseatharva" /></p>
