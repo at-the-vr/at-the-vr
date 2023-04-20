@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **atharvapise19@gmail.com**
 
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=piseatharva&theme=chartreuse-dark&show_icons=true)
+![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=at-the-vr&theme=chartreuse-dark&show_icons=true)
