@@ -4,6 +4,10 @@
 I am a Frontend Developer. I enjoy learning and building SPAs from scratch. My recent activities roam around Documentation and tinkering around SSGs like starlight
 </p>
 
+<a href="https://astro.badg.es/contributor/at-the-vr/">
+  <img src="https://astro.badg.es/v2/contributor/at-the-vr.svg" alt="@at-the-vr Astro contributions" width="260" height="156">
+</a>
+
 ### My Achievements
 - Completed [Hacktoberfest 2022](https://holopin.me/its_eobard2025)
 - Participant in [Social Summer of Code 2023](https://certificate.givemycertificate.com/c/85fecabb-6115-4d5c-a31e-c9ed00b33f0a)
