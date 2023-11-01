@@ -9,5 +9,5 @@ I am a Frontend Developer. I enjoy learning and building SPAs from scratch. My r
 </a>
 
 ### My Achievements
-- Completed [Hacktoberfest 2022](https://holopin.me/its_eobard2025)
+- Completed [Hacktoberfest 2022 & Hacktoberfest 2023](https://holopin.me/its_eobard2025)
 - Participant in [Social Summer of Code 2023](https://certificate.givemycertificate.com/c/85fecabb-6115-4d5c-a31e-c9ed00b33f0a)
