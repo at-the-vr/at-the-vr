@@ -4,6 +4,7 @@
 Recent activities:
 - roam around [Astro Docs](https://docs.astro.build)
 - tinkering around SSGs like [Starlight](https://starlight.astro.build)
+- Making my way across [90DaysofDevOps](https://www.90daysofdevops.com/2022/)
 
 ### My Achievements
 <a href="https://astro.badg.es/contributor/at-the-vr/">
